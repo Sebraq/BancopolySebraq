@@ -1,0 +1,121 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BancoSebastianLetona
+</name>
+</assembly>
+<members>
+<member name="T:BancoSebastianLetona.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.Airbus_Autopilot_Off_da5260f2_67ba_4a3b_aaf7_7acba8c49577">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.Anímate_a_conocer_algunos_rincones_del_centro_histórico_de_la_Ciudad_de_Guatemala">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.bojack_horseman_4">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.bolsa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.Bus_8_Start_ffca03f4_0f1c_3689_80df_486d84a48aa8">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.Creaking_Boat_Sms_14dc17c8_aa91_31d2_b025_bdbd82b33072">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.cupon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.dado2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.Dice_Roll_064fcfd5_b570_3f22_9b53_5b126d2b0925">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.Electric_Shock_257ec604_ec64_3255_981b_bf2d607a7e36">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.error_text_message">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.golden_time_sad_song">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.Money_e79c530c_1f53_4c93_bf78_c27b0ce181f5">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.MOUSE_CLICK">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.Nep_Nep">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.OBI_WAN_HELLO_THERE">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.OOF">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.Train_Horn_8f4e4fb0_3b0a_48b2_bdb6_50cbd71b7900">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:BancoSebastianLetona.My.Resources.Resources.Water_c461fc80_d814_316a_82dc_7f2fbd1d2406">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+</members>
+</doc>
